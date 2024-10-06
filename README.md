@@ -56,3 +56,4 @@ This project was developed as part of a personal endeavor to improve my typing s
 - Option to select different difficulty levels based on text complexity.
 - Add the ability to track typing progress over time.
 
+![Screenshot 2024-09-10 152654](https://github.com/user-attachments/assets/65f6ef9b-6c69-4e5d-8f2e-fe8697612b82)
